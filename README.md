@@ -1,5 +1,5 @@
 # Hello and welcome to my:
-  **CPE 322 Info**
+# **CPE 322 Info**
   
 Below is a test using Github's markdown:
 ## Quote:
