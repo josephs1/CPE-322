@@ -1,4 +1,4 @@
-# Hello and welcome to my:
+## Hello and welcome to my:
 # **CPE 322 Info**
   
 Below is a test using Github's markdown:
